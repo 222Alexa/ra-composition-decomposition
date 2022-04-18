@@ -18,3 +18,6 @@
 
 Функциональность и стилизацию реализовывать не нужно, достаточно базового оформления (чтобы видно было все блоки).
 
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/1m9n95jmsvo82arn/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-composition-decomposition/branch/main)
