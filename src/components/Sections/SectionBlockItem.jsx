@@ -5,7 +5,7 @@ const USID = require("usid");
 const usid = new USID();
 
 const SectionBlockItem = (props) => {
-  //console.log(props, "SectionBlockItem");
+  console.log(props, "SectionBlockItem");
 
   return (
     <div key={usid.rand()} className={props.className + "-card"}>

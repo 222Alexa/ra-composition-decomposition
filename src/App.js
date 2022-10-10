@@ -1,8 +1,9 @@
 import "./App.css";
 import "./main.css";
-import Header from "./components/Header";
-import Main from "./components/Main";
-import SideBar from "./components/Sidebar";
+import "./components/Blocks/blocks.css"
+import Header from "./components/Blocks/Header/Header";
+import Main from "./components/Blocks/Main/Main";
+import SideBar from "./components/Blocks/Sidebar/Sidebar";
 
 function App() {
   return (
